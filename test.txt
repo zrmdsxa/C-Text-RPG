@@ -1,0 +1,28 @@
+
+melee 
+
+vs melee
+90 vs 50 win
+vs ranged
+100 vs 10*3 win
+vs acefighter
+110*2 vs 60 win
+ranged
+
+vs melee
+30*4 vs 60 lose
+vs ranged
+40 vs 20 win
+vs acefighter
+50*4 vs 70
+acefighter
+
+vs melee
+70 vs 75*2 lose
+52*3 vs 75 win
+vs ranged
+80 vs 35*3 lose
+62 vs 35 win
+vs acefighter
+90 vs 85 win
+72*3 vs 85 win
